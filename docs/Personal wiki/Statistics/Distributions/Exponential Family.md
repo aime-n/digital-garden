@@ -1,0 +1,12 @@
+- [[Normal distribution]]
+- Exponencial
+- Gamma
+- Chi-Squared ^5fa6da
+- Beta
+- Dirichlet
+- Bernoulli
+- categorical
+- Poisson
+- Wishart
+- inverse Wishart
+- geometric
