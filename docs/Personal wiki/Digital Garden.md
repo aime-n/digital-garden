@@ -20,8 +20,32 @@ I had this idea today and its main purpose is several:
 - Music
 - Computer Science
 	- NLP
+
+
+[Fetching Title#qf45](https://mindstone.tuancao.me/)
+
+MindStone is a free open-source alternative solution to [Obsidian Publish](https://obsidian.md/publish)
+[GitHub - TuanManhCao/digital-garden: Free Obisidian Publish alternative, for publishing your digital garden.](https://github.com/TuanManhCao/digital-garden)
+
+[Develop and deploy websites and apps in record time | Netlify](https://www.netlify.com/)
+[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
+
+[The Everything App](https://anytype.io/)
+
+[The Everything App](https://anytype.io/)
+
+[GitHub - binnyva/gatsby-garden: A Digital Garden Theme for Gatsby. Gatsby Garden lets you create a static HTML version of your markdown notes](https://github.com/binnyva/gatsby-garden/)
+
+[Markbase](https://www.markbase.xyz/)
+
+[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
+
+[Markdown Options | Jekyll • Simple, blog-aware, static sites](https://jekyllrb.com/docs/configuration/markdown/)
 ## See more
 
 [[Retrieval vs Recall]]
 
 [Diagrams - Material for MkDocs](https://squidfunk.github.io/mkdocs-material/reference/diagrams/#using-flowcharts)
+
+
+

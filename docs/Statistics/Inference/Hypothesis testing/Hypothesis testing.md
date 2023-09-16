@@ -56,5 +56,3 @@ Hypothesis testing is widely used in various fields, including science, social s
 
 - [[Statistical Significance]
 - [[Type I and Type II Errors]]
-
-You can replace placeholders like `[link-to-statistical-significance-wikipedia-entry]` and `[link-to-type-i-ii-errors-wikipedia-entry]` with actual links to related Wikipedia entries if needed.

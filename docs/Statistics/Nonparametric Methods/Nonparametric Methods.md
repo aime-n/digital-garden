@@ -2,7 +2,7 @@ Nonparametric statistics are a class of statistical methods used when _the data 
 
 Here are some key aspects and methods of nonparametric statistics:
 
-1. **Data Types**: Nonparametric methods are particularly useful when dealing with non-normally distributed data, [[Ordinal Data]] (data with ordered categories but unknown intervals between them), or [[Nominal Data]] (categorical data with no inherent order).
+1. **Data Types**: Nonparametric methods are particularly useful when dealing with non-normally distributed data, [[Ordinal Data]] (data with ordered categories but unknown intervals between them), or [[Nominal Data]] (categorical data with no inherent order). 
 
 2. **[[Ranking]]**: Many nonparametric tests involve ranking the data, which transforms the original data into a more tractable form. This ranking is often based on the order of values, rather than their actual numerical values.
 
@@ -34,6 +34,5 @@ Here are some key aspects and methods of nonparametric statistics:
 
 In summary, nonparametric statistics provide valuable tools for analyzing and drawing conclusions from data that do not conform to the assumptions of parametric statistics. They are particularly useful when dealing with categorical, ordinal, or non-normally distributed data and offer a robust approach to hypothesis testing and data analysis in a variety of fields, including social sciences, biology, and engineering.
 
-
-- [[USP/semestre 8/non parametric methods/Applied Non Parametric Methods|Applied Non Parametric Methods]]
-
+# See more
+[[Advantages of Nonparametric Methods over Parametric Methods]]
