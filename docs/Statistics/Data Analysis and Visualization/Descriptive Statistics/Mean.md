@@ -1,6 +1,7 @@
 # Mean
 
-The **mean**, often referred to as the *average*, is a fundamental statistical measure used to _describe the central tendency_ of a dataset.
+>[!info] Description:
+>The **mean**, often referred to as the *average*, is a fundamental statistical measure used to _describe the central tendency_ of a dataset.
 
 ## Definition
 

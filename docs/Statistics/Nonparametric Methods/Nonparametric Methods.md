@@ -1,5 +1,7 @@
 Nonparametric statistics are a class of statistical methods used when _the data do not meet the assumptions of parametric statistics_. Parametric statistics typically assume that the data follow a specific probability distribution (usually the normal distribution) and that the parameters of this distribution are known or can be estimated from the data. Nonparametric statistics, on the other hand, **make fewer or no assumptions about the underlying distribution of the data** and are often used when dealing with categorical, ordinal, or skewed data.
 
+![[Pasted image 20231016053701.png]]
+
 Here are some key aspects and methods of nonparametric statistics:
 
 1. **Data Types**: Nonparametric methods are particularly useful when dealing with non-normally distributed data, [[Ordinal Data]] (data with ordered categories but unknown intervals between them), or [[Nominal Data]] (categorical data with no inherent order). 

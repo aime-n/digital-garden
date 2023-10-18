@@ -20,7 +20,7 @@ The goal of hypothesis testing is to determine whether there is enough statistic
 
 3. **Choose a Significance Level (α)**: Determine the threshold for statistical significance, often set at 0.05 (5%).
 
-4. **Perform a Statistical Test**: Select an appropriate statistical test based on the type of data and research question. Common tests include [[t-tests]], [[chi-square tests]], [[ANOVA]], and [[regression analysis]].
+4. **Perform a Statistical Test**: Select an appropriate statistical test based on the type of data and research question. Common tests include [[t-tests]], [[Chi-Squared]], [[ANOVA]], and [[regression analysis]].
 
 5. **Calculate Test Statistic**: Compute a test statistic that quantifies the difference between the sample data and what is expected under the null hypothesis.
 
